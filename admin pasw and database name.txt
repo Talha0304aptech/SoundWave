@@ -1,0 +1,6 @@
+admin user name = admin123
+admin password = admin123
+
+
+database name = talha_database
+
